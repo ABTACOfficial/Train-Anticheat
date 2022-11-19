@@ -1,0 +1,41 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "ABT",
+		"description": "extra cheese.",
+		"uuid": "c68ba0c1-b9e4-46ad-b6c8-88bbd28f1fa5",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 210]
+	},
+	"metadata": {
+		"authors": ["ABTACOfficial"],
+		"url": "https://github.com/ABTACOfficial/ABT-Anticheese-cheesey-edition"
+	},
+	"modules": [{
+			"type": "data",
+			"uuid": "d059cc96-9272-4a33-90c8-f572bcc7fa56",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"description": "Gametest Features",
+			"language": "javascript",
+			"type": "script",
+			"uuid": "ab31620b-f498-4355-9bea-498922f5940e",
+			"version": [0, 0, 1],
+			"entry": "scripts/main.js"
+		}
+	],
+	"dependencies": [{
+			"module_name": "@minecraft/server",
+			"version": "1.0.0-beta"
+		},
+        {
+			"module_name": "@minecraft/server-ui",
+			"version": "1.0.0-beta"
+		}
+	]
+}
