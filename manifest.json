@@ -1,15 +1,15 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "ABT",
-		"description": "extra cheese.",
-		"uuid": "c68ba0c1-b9e4-46ad-b6c8-88bbd28f1fa5",
+		"name": "Train Anticheat",
+		"description": "train noise",
+		"uuid": "a02cffb4-ae48-44c4-805b-93313efe67b1",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 16, 210]
 	},
 	"metadata": {
 		"authors": ["ABTACOfficial"],
-		"url": "https://github.com/ABTACOfficial/ABT-Anticheese-cheesey-edition"
+		"url": "https://github.com/ABTACOfficial/Train-Anticheat"
 	},
 	"modules": [{
 			"type": "data",
