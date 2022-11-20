@@ -4,7 +4,7 @@ Copyright (c) 2022 Vision
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, you may: use, merge, sublicense, and/or sell you may NOT: copy, or publish/distribute my CODE.
+in the Software without restriction, you may: use, merge, sublicense, and/or sell you may NOT: copy, or publish/distribute Vision's code.
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
