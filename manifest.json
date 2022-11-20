@@ -1,9 +1,9 @@
 {
 	"format_version": 2,
 	"header": {
-		"name": "Train Anticheat",
-		"description": "train noise",
-		"uuid": "a02cffb4-ae48-44c4-805b-93313efe67b1",
+		"name": "train anticheat",
+		"description": "train noises",
+		"uuid": "c68ba0c1-b9e4-46ad-b6c8-88bbd28f1fa5",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 16, 210]
 	},
@@ -26,7 +26,7 @@
 			"type": "script",
 			"uuid": "ab31620b-f498-4355-9bea-498922f5940e",
 			"version": [0, 0, 1],
-			"entry": "scripts/serverBook.js"
+			"entry": "scripts/NULL.js"
 		}
 	],
 	"dependencies": [{
@@ -38,6 +38,4 @@
 			"version": "1.0.0-beta"
 		}
 	]
-	"capabilities": [ "script_eval" ]
-     }
 }
