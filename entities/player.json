@@ -255,8 +255,7 @@
                               "value":true
                            }
                         ]
-                     },
-                     "event":"scythe:guiopen"
+                     }
                   },
                   {
                      "filters":{
@@ -268,8 +267,7 @@
                               "value":false
                            }
                         ]
-                     },
-                     "event":"scythe:reset_variant"
+                     }
                   },
                   {
                      "filters":{
